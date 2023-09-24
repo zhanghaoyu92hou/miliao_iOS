@@ -1,0 +1,2 @@
+Tigase/3rd/googleMap/GoogleMaps.framework/Versions/A/GoogleMaps filter=lfs diff=lfs merge=lfs -text
+Tigase/ShortVideo/TXLiteAVSDK_Player/TXLiteAVSDK_Player/SDK/TXLiteAVSDK_Player.framework/TXLiteAVSDK_Player filter=lfs diff=lfs merge=lfs -text
