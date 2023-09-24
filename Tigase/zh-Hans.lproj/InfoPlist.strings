@@ -1,0 +1,13 @@
+/* Localized versions of Info.plist keys */
+CFBundleDisplayName = "密聊"; // APP名字
+
+NSCalendarsUsageDescription = "需要日历信息进行签到，是否允许访问日历？";
+NSCameraUsageDescription = "需要扫描二维码或拍照进行连接绑定设备，是否允许打开相机？";
+NSContactsUsageDescription = "需要上传通讯录数据到服务器，以便发现共同使用此APP的好友，是否允许访问通讯录？";
+NSLocationAlwaysAndWhenInUseUsageDescription = "需要地理位置信息获取周边的好友信息，是否允许使用定位？";
+NSLocationAlwaysUsageDescription = "需要地理位置信息获取周边的好友信息，是否允许使用定位？";
+NSLocationWhenInUseUsageDescription = "需要地理位置信息获取周边的好友信息，是否允许使用定位？";
+NSMicrophoneUsageDescription = "需要录制音频进行发送语音聊天信息，是否允许打开麦克风？";
+NSPhotoLibraryAddUsageDescription = "需要添加图片并存储图片，是否允许访问相册？";
+NSPhotoLibraryUsageDescription = "需要查看图片并发送图片，是否允许访问相册？";
+

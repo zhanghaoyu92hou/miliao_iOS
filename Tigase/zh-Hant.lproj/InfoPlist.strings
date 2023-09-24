@@ -1,0 +1,14 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleDisplayName = "暢聊"; // APP名字
+
+
+NSCalendarsUsageDescription = "需要日曆信息進行簽到，是否允許訪問日曆？";
+NSCameraUsageDescription = "需要掃描二維碼或拍照進行連接綁定設備，是否允許打開相機？";
+NSContactsUsageDescription = "需要上傳通訊錄數據到服務器，以便發現共同使用此APP的好友，是否允許訪問通訊錄？";
+NSLocationAlwaysAndWhenInUseUsageDescription = "需要地理位置信息獲取周邊的好友信息，是否允許使用定位？";
+NSLocationAlwaysUsageDescription = "需要地理位置信息獲取周邊的好友信息，是否允許使用定位？";
+NSLocationWhenInUseUsageDescription = "需要地理位置信息獲取周邊的好友信息，是否允許使用定位？";
+NSMicrophoneUsageDescription = "需要錄製音頻進行發送語音聊天信息，是否允許打開麥克風？";
+NSPhotoLibraryAddUsageDescription = "需要添加圖片並存儲圖片，是否允許訪問相冊？";
+NSPhotoLibraryUsageDescription = "需要查看圖片並發送圖片，是否允許訪問相冊？";
